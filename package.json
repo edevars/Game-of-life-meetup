@@ -1,0 +1,20 @@
+{
+  "name": "GameOfLife",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Enrique Devars <enrique.devars@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next -p 5555",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^9.3.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-helmet": "^6.0.0",
+    "react-icons": "^3.9.0",
+    "styled-components": "^5.1.0"
+  }
+}
